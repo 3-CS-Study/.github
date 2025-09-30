@@ -3,7 +3,7 @@
 > 함께 성장하는 CS 스터디 · 매주 발표 · 서로의 기록이 자산이 되도록
 
 ## 📆 Schedule
-- **2025 Fall:** 매주 수 오후 6:00 ~&:00 / GitHub Live 리뷰
+- **2025 Fall:** 매주 목 오후 7:00 ~ 9:00 / GitHub Live 리뷰
 - 발표 순서: [Issues](../issues) 에서 주차별 확인
 - 자료 업로드 형식 : `study-2025-fall/week-XX/발표자/`
 
